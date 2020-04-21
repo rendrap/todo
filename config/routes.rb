@@ -5,7 +5,7 @@ Rails.application.routes.draw do
   end
 
 
-  root "todo#index"
+  root "todo_lists#index"
 
 
 
